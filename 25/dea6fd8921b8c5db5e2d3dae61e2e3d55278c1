@@ -1,0 +1,25 @@
+semantic.py
+  s_c6662f524019ef::t_be0b8e7b3db391 648
+  s_c6662f524019ef::t_6978dce4797a57 706-708
+  s_c6662f524019ef::t_53670dcce6b92c 693-694,700
+  s_c6662f524019ef::t_fbdbf62481651c 683-692,695-699,701-705,709-713
+  s_c6662f524019ef::t_2cb9619daca7fe 682
+tests/test_semantic.py
+  s_c6662f524019ef::t_71c326ef04ca9b 93-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25dea6fd8921b8c5db5e2d3dae61e2e3d55278c1",
+  "prompts": {},
+  "sessions": {
+    "s_c6662f524019ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "355e1e9e-32a3-46fb-b4c9-887a6a6c0568",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tanguy Le Barzic <tanguy.lebarzic@gmail.com>"
+    }
+  }
+}
