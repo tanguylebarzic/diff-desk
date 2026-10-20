@@ -1,0 +1,26 @@
+tests/test_page.py
+  s_b3c60da2a2a799::t_1c42ac29e5ed66 3847-3849
+  s_b3c60da2a2a799::t_388120f2e67702 3846,3850
+  s_b3c60da2a2a799::t_fc74706c418905 1523-1524
+tests/conftest.py
+  s_b3c60da2a2a799::t_168c01aaa82e9e 76,79
+  s_b3c60da2a2a799::t_e96b3e4172a4db 74-75,77-78
+diff_desk_template.html
+  s_b3c60da2a2a799::t_0b9052042e32bf 4932-4934
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c24f671ef60b1ddd4336d3e598b2d0057fd7343",
+  "prompts": {},
+  "sessions": {
+    "s_b3c60da2a2a799": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8cd695ad-5a44-4c81-b264-15f9acfbb136",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tanguy Le Barzic <tanguy.lebarzic@gmail.com>"
+    }
+  }
+}
